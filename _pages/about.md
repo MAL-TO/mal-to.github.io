@@ -4,7 +4,6 @@ title: "MALTO - MAchine Learning @ poliTO"
 excerpt: "Call for applications!"
 author_profile: true
 redirect_from: 
-  - /
   - /index.html
 ---
 
