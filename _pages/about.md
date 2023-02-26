@@ -32,4 +32,4 @@ We will process applications in two batches, with deadlines:
 
 Excited about MALTO yet?
 ===
-So are we! If you have any questions, you can check the [FAQ](/faq.html) and, if you can't find answers there, shoot us an [email](flavio.giobergia@polito.it)!
+So are we! If you have any questions, you can check the [FAQ](/faq/) and, if you can't find answers there, shoot us an [email](flavio.giobergia@polito.it)!
