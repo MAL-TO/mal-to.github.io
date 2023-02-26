@@ -20,12 +20,6 @@ Who can join
 ===
 MALTO is a student team; as such, all students enrolled at Politecnico di Torino may apply. The nature of the team makes it strongly recommended that applicants have some working knowledge of programming and a background in data science, machine learning or statistics, either acquired during your academic studies, or on your own. Ideally, your background allows you to read and understand relevant scientific writings (e.g. books, papers) and technical documentation (e.g. API and libraries documentation). 
 
-As the majority of the work will be done in Python, we ask that you are profiecient in Python. Knowledge of the following libraries is a plus: 
-* pandas/NumPy/SciPy
-* scikit-learn
-* TensorFlow/Keras
-* PyTorch
-
 How to apply
 ===
 You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.giobergia@polito.it). Please use the subject `[MALTO] Application` and include the following attachments:
@@ -35,8 +29,6 @@ You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.gio
 We will process applications in two batches, with deadlines:
 * **March 15, 2023**
 * **March 31, 2023**
-
-After each deadline, we will proceed with an assessment of all the candidates who applied in time. After a preliminary phase, we will proceed with a technical test to get a better grasp of your understanding of various topics (don't worry, we don't expect you to know *everything*!) and an interview to talk about you and your fit within the team. 
 
 Excited about MALTO yet?
 ===
