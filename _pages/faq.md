@@ -3,7 +3,6 @@ permalink: /faq/
 title: "FAQ"
 author_profile: false
 redirect_from: 
-  - /faq/
   - /faq.html
 ---
 
