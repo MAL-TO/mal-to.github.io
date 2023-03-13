@@ -26,9 +26,7 @@ You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.gio
 * Your curriculum of studies (you can download a self-certification from Portale della Didattica for courses attended at Politecnico di Torino), including Bachelor’s and Master’s courses attended, with grades (when applicable)
 * A link to your GitHub account or similar profile
 
-We will process applications in two batches, with deadlines:
-* **March 15, 2023**
-* **March 31, 2023**
+The deadline for the submissions is  **March 31, 2023**.
 
 Excited about MALTO yet?
 ===
