@@ -239,6 +239,7 @@ df = pd.read_csv("https://gist.githubusercontent.com/lccol/3ab34ae5b93aff96dc4ae
 plt.scatter(df.x, df.y, c=df.label)
 ```
 ![rbf-dataset.png](/images/rbf-dataset.png)
+
 From this, it easily follows that the only suitable classifier among the ones proposed is an SVM that makes use of an [RBF kernel](https://en.wikipedia.org/wiki/Radial_basis_function_kernel).
 
 Alternatively, we could have measured the accuracy of all proposed classifiers (of course, on a test split):
