@@ -93,7 +93,7 @@ A random forest classifier has been trained on a 2-dimensional dataset (features
 
 The following figure represents a test set that is used to validate the classifier.
 
-[classifier.png](/images/classifier.png)
+![classifier.png](/images/classifier.png)
 
 The decision boundaries of the model are shown in the figure:
 
@@ -123,7 +123,7 @@ Based on this definition, which of the following plots correctly represents the 
 
 Note: The x and y labels and values have been removed on purpose. The x axis contains the values of the 1-dimensional features of the dataset (independent variable), whereas the y axis represents the target variable y (dependent variable).
 
-[residuals.png](/images/residuals.png)
+![residuals.png](/images/residuals.png)
 
 *Solution*
 We can easily solve this exercise by looking at the tails of the the data/model plot, as well as its center. We notice, along the tails, that the actual values (y_i) are larger than the predictions (the model is underestimating the targets). This implies that the residuals (as defined in the text of the exercise) will be positive. Similarly, for central values, the model is overestimating the target (the targets are below the model predictions). This implies that residuals will be negative.
@@ -139,7 +139,7 @@ You want to feed a batch of size 512, each representing a black/white image of 2
 
 What is the correct value for the parameter M to be passed to the constructor?
 
-[pytorch.png](/images/pytorch.png)
+![pytorch.png](/images/pytorch.png)
 
 *Solution*
 One possible solution for this exercise was to manually compute the size of the feature maps obtained after each convolution. This is a rather time-consuming and error-prone way of proceeding -- let's be honest: almost nobody would go that way!
@@ -238,7 +238,7 @@ For the first option, two lines of code were sufficient:
 df = pd.read_csv("https://gist.githubusercontent.com/lccol/3ab34ae5b93aff96dc4ae68e73e6d12b/raw/8b02713ee2364914eb17cd0de4b0eebb0fd4a797/question_dataset.csv")
 plt.scatter(df.x, df.y, c=df.label)
 ```
-[!rbf-dataset.png](/images/rbf-dataset.png)
+![rbf-dataset.png](/images/rbf-dataset.png)
 From this, it easily follows that the only suitable classifier among the ones proposed is an SVM that makes use of an [RBF kernel](https://en.wikipedia.org/wiki/Radial_basis_function_kernel).
 
 Alternatively, we could have measured the accuracy of all proposed classifiers (of course, on a test split):
@@ -435,7 +435,7 @@ for k in range(2,11):
 
 Or, since this is an additional analysis that is not a part of the test and we can spend some more time plotting things:
 
-[!silhouette.png](/images/silhouette.png)
+![silhouette.png](/images/silhouette.png)
 
 Note how the presence of outliers affects the Silhouette: although the clusterings produced have an excessive value of K (we know that N = 5 should be ideal), the Silhouette drops quite slowly. Why does that happen?
 
