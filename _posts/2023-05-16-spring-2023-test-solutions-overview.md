@@ -440,5 +440,9 @@ Or, since this is an additional analysis that is not a part of the test and we c
 
 Note how the presence of outliers affects the Silhouette: although the clusterings produced have an excessive value of K (we know that N = 5 should be ideal), the Silhouette drops quite slowly. Why does that happen?
 
+We hope that this has been a useful post for you to (i) get an idea about what a selection test for MALTO looks like and (ii) learn something new about computer science, statistics and ML-related topics!
+
+---
+*Flavio Giobergia*
 
 
