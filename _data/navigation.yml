@@ -11,3 +11,6 @@ main:
     
   - title: "Past works"
     url: /works/
+
+  - title: "Blog posts"
+    url: /posts/
