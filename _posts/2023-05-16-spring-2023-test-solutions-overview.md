@@ -1,6 +1,6 @@
 ---
 title: "Spring 2023 test solutions overview"
-permalink: /publication/2023-05-16-spring-2023-test-solutions-overview
+permalink: /posts/2023-05-16-spring-2023-test-solutions-overview
 date: 2023-05-16
 ---
 In this post we will go through the questions that were a part of the Spring 2023 written test, one of the steps of the MALTO selection process. We will go through the texts and we will present a solution.
