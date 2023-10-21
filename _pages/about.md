@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: "MALTO - MAchine Learning @ poliTO"
-excerpt: "Call for applications!"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
 ---
 
-Call for Applications
+About us
 ===
 The field of data science is becoming increasingly more important in our everyday life. In particular, at Politecnico di Torino, we strive to become national and international leaders in the field. To this end, this year we are introducing MALTO (MAchine Learning @ poliTO).
 
@@ -26,7 +26,7 @@ You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.gio
 * Your curriculum of studies (you can download a self-certification from Portale della Didattica for courses attended at Politecnico di Torino), including Bachelor’s and Master’s courses attended, with grades (when applicable)
 * A link to your GitHub account or similar profile
 
-The deadline for the submissions is  **March 31, 2023**.
+Please note that the Recruitment period has **concluded**. But don't worry! Follow us on [X](https://twitter.com/polimalto) to remain informed about our latest activities and keep an eye on your institutional email; you wouldn't want to miss the next chance to join our team.
 
 Excited about MALTO yet?
 ===
