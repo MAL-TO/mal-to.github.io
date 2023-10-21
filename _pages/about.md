@@ -26,7 +26,7 @@ You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.gio
 * Your curriculum of studies (you can download a self-certification from Portale della Didattica for courses attended at Politecnico di Torino), including Bachelor’s and Master’s courses attended, with grades (when applicable)
 * A link to your GitHub account or similar profile
 
-Please note that the Application period has **concluded**. But don't worry! Follow us on [X](https://twitter.com/polimalto) to stay updated with our latest activities and keep an eye on your institutional email; you wouldn't want to miss the next chance to join our team!
+Please note that the Call for Applications period has **concluded**. But don't worry! Follow us on [X](https://twitter.com/polimalto) to stay updated with our latest activities and keep an eye on your institutional email; you wouldn't want to miss the next chance to join our team!
 
 Excited about MALTO yet?
 ===
