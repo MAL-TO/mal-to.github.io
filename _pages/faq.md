@@ -47,8 +47,8 @@ In particular, we recommend having some expertise in handling data and building 
 * PyTorch
 
 **How does the selection process work?**\
-We will handle applications after the deadline of March 31, 2023. All candidates will be evaluated based on how good of a fit we believe they would be with the team. After an initial screening process, there will be a technical test we will use to get a better grasp of what your background is (don't worry, we don't expect you to know *everything*!).
+After each Call for Applications deadline, all candidates will be evaluated based on how good of a fit we believe they would be with the team. After an initial screening process, there will be a technical test we will use to get a better grasp of what your background is (don't worry, we don't expect you to know *everything*!).
 The test will cover various topics within the field of data science and machine learning that are typically covered in introductory and intermediate courses. Finally, there will be an interview to talk about you and your fit within the team.
 
-**How many members will you select in this Call for Applications?**\
-We will limit the number of students who will be chosen as MALTO members to a number that we can tutor well given our current availabilities in terms of supervisors. While the total number is not set in stone yet, we are looking to have an initial team of about 10 students. 
+**How many members are you likely to select in each Call for Applications?**\
+We will limit the number of students who will be chosen as MALTO members to a number that we can tutor well given our current availabilities in terms of supervisors. While the total number is not set in stone yet, we are looking to have an active team of about 10 students. 
