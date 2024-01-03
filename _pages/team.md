@@ -14,11 +14,13 @@ In this page you will find those who are currently involved in MALTO.
 
 <!-- Note: this page is temporary and has hardcoded entries. In the future, we should move each person to its own entry and iterate over them when generating the page  -->
 
+### Tutors
+
 **Elena Baralis**\
-Full professor, Head of the [DAUIN](https://www.dauin.polito.it) department, head of [DBDMG](https://dbdmg.polito.it)
+Full professor, Head of [DBDMG](https://dbdmg.polito.it)
 
 **Flavio Giobergia**\
-Post-doc researcher, co-founder of MALTO
+Assistant professor with time contract, co-founder of MALTO
 
 **Eliana Pastor**\
 Assistant professor with time contract
@@ -31,3 +33,25 @@ PhD student
 
 **Lorenzo Vaiani**\
 PhD student
+
+**Alkis Koudounas**\
+PhD student
+
+
+
+### Students
+
+**Claudio Savelli**\
+Master student of Data Science and Engineering
+
+**Federico Borra**\
+Master student of Data Science and Engineering
+
+**Giacomo Rosso**\
+Master student of Data Science and Engineering
+
+**Giulia Monchietto**\
+Master student of Mathematical Data Analysis
+
+**Mattia Sabato**\
+Master student of Data Science and Engineering

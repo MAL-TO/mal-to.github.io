@@ -22,12 +22,19 @@ MALTO is a student team; as such, all students enrolled at Politecnico di Torino
 
 How to apply
 ===
-You may submit your MALTO application to [flavio.giobergia@polito.it](flavio.giobergia@polito.it). Please use the subject `[MALTO] Application` and include the following attachments:
-* Your curriculum of studies (you can download a self-certification from Portale della Didattica for courses attended at Politecnico di Torino), including Bachelor’s and Master’s courses attended, with grades (when applicable)
-* A link to your GitHub account or similar profile
+**Applications are actually open until 31/01/2024!**
 
-Please note that the Call for Applications period has **concluded**. But don't worry! Follow us on [X](https://twitter.com/polimalto) to stay updated with our latest activities and keep an eye on your institutional email; you wouldn't want to miss the next chance to join our team!
+You can send your application by filling in the following [Google form](https://forms.gle/p6KXkzZ1jNHCLy138) by the date indicated, we are waiting for you! 
+
+After an initial selection phase, a small test and cognitive interview with team members will take place! But don't worry, this second phase will start *after the end of the winter session*!
 
 Excited about MALTO yet?
 ===
-So are we! If you have any questions, you can check the [FAQ](/faq/) and, if you can't find answers there, shoot us an [email](flavio.giobergia@polito.it)!
+So are we! If you have any questions, you can check the [FAQ](/faq/) and, if you can't find answers there, contact us through our channels!
+
+Channels and contacts
+===
+* [LinkTree](https://linktr.ee/polimalto)
+* [Email](mailto:malto.polito@gmail.com)
+* [Instagram](https://www.instagram.com/polimalto/)
+* [X](https://twitter.com/polimalto)
