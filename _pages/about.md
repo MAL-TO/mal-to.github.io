@@ -22,7 +22,7 @@ MALTO is a student team; as such, all students enrolled at Politecnico di Torino
 
 How to apply
 ===
-**Applications are actually open until 31/01/2024!**
+**Applications are actually open until ~~31/01~~ 15/02/2024!**
 
 You can send your application by filling in the following [Google form](https://forms.gle/p6KXkzZ1jNHCLy138) by the date indicated, we are waiting for you! 
 
