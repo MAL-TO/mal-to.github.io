@@ -30,7 +30,7 @@ This time, the recruitment process will be divided into two distinct phases, one
 ### **Communication & Public Relationships / Design & Graphics**
 - Start: 21/10
 - End: 31/10
-- Link to the form:
+- Link to the form: [Click me!](https://docs.google.com/forms/d/e/1FAIpQLSexaYDBvtZMFMf9D2y_4cN0q7ySLzjAm-87d5Nt_enTlU3mSw/viewform)
 
 ### **Challenges & Research**
 - Start: 28/10
