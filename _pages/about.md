@@ -20,13 +20,23 @@ Who can join
 ===
 MALTO is a student team; as such, all students enrolled at Politecnico di Torino may apply. The nature of the team makes it strongly recommended that applicants have some working knowledge of programming and a background in data science, machine learning or statistics, either acquired during your academic studies, or on your own. Ideally, your background allows you to read and understand relevant scientific writings (e.g. books, papers) and technical documentation (e.g. API and libraries documentation). 
 
+For less technical roles, such as those focused on promoting our work within the Politecnico community, creativity and adaptability are essential. Effective communication skills, particularly the ability to engage with a diverse range of stakeholders, and proficiency in English are key factors we will consider during the evaluation of each candidate.
+
 How to apply
 ===
-**Applications are actually open until ~~31/01~~ 15/02/2024!**
 
-You can send your application by filling in the following [Google form](https://forms.gle/p6KXkzZ1jNHCLy138) by the date indicated, we are waiting for you! 
+This time, the recruitment process will be divided into two distinct phases, one for each division. The only differences between the phases will be the start and end dates for submitting the application form, as well as the type of test given to candidates. The overall procedure will be similar to previous rounds: after receiving all applications, candidates will undergo an initial technical test, followed by an oral interview if they pass the first stage (for those applying to the Challenge Division), or a problem-solving discussion with tasks created on the spot (if applying to the Communication/Design Division).
 
-After an initial selection phase, a small test and cognitive interview with team members will take place! But don't worry, this second phase will start *after the end of the winter session*!
+### **Communication & Public Relationships / Design & Graphics**
+- Start: 21/10
+- End: 31/10
+- Link to the form:
+
+### **Challenges & Research**
+- Start: 28/10
+- End: 7/11
+- Link to the form:
+
 
 Excited about MALTO yet?
 ===
