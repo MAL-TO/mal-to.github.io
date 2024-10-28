@@ -35,7 +35,7 @@ This time, the recruitment process will be divided into two distinct phases, one
 ### **Challenges & Research**
 - Start: 28/10
 - End: 7/11
-- Link to the form:
+- Link to the form: [Click me!](https://docs.google.com/forms/d/e/1FAIpQLSf_7lDvMvTe4XjMYAsqTlyJAzTdkS1SlFiRqnuqMCl3BE_PNA/viewform)
 
 
 Excited about MALTO yet?
